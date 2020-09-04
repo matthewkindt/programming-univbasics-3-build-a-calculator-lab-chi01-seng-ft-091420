@@ -1,5 +1,11 @@
 def addition(num1 = 5, num2 = 4)
+<<<<<<< HEAD
 addition = 5 + 4
+=======
+addition == num1.to_s + num2.to_s
+end
+puts addition
+>>>>>>> 0f42c7b65cbab5406981bbcd9f97271126ca653d
 end
 puts addition
 
